@@ -419,7 +419,7 @@ These are not inherently the same thing.
 
 # XI. Cross-Jurisdictional Operation
 
-Dupernational does not mean “above national.”
+International does not mean “above national”.
 
 It means that an interaction may cross jurisdictional boundaries without requiring the participants to pretend those boundaries do not exist.
 
