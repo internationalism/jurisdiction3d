@@ -1,4 +1,4 @@
-# DIA — Subject–Object Jurisdiction Manifesto
+# DIA Regulator
 
 ## Definition of a Regulator
 
