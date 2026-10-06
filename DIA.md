@@ -1,4 +1,4 @@
-# DIA — Subject–Object Jurisdiction Manifesto
+# DIA Jurisdiction Stack
 
 ## 1. The Subject Comes First
 
@@ -34,7 +34,7 @@ Each system defines a particular relationship with the Subject.
 
 Therefore DIA does not model jurisdiction as a single vertical chain.
 
-It models it as a **set of relationships between a Subject and multiple Objects**.
+It models it as a **set of Relationships between a Subject and multiple Objects**.
 
 ```text
                          OBJECTS
@@ -208,9 +208,9 @@ Authority does not exist merely because an Object claims it.
 
 DIA asks:
 
-> **What is the relationship between this Object and this Subject, and what gives that relationship its authority?**
+> **What is the Relationship between this Object and this Subject, and what gives that Relationship its authority?**
 
-For every relationship, DIA should be able to represent:
+For every Relationship, DIA should be able to represent:
 
 ```text
 Subject
@@ -350,12 +350,12 @@ The resulting model is:
 ```text
                  OBJECT
                    │
-              relationship
+              Relationship
                    │
                    ▼
 SUBJECT ─────────────────────
                    ▲
-              relationship
+              Relationship
                    │
                  OBJECT
 ```
@@ -375,7 +375,7 @@ DIA additionally establishes:
 
 ---
 
-## 11. DIA Principle
+## 11. Subject Principle
 
 DIA therefore rests on a simple architectural principle:
 
@@ -401,7 +401,7 @@ None of these should be confused with the Subject itself.
 
 ---
 
-## 12. The Supernational Layer
+## 12. The International Layer
 
 DIA's purpose is not necessarily to create another jurisdiction above existing jurisdictions.
 
@@ -415,7 +415,7 @@ Thus:
 
 > **DIA is not a super-state.**
 >
-> **DIA is a supernational relationship layer.**
+> **DIA is a international relationship layer.**
 
 It connects Subjects to the many systems in which they participate while preserving the distinction between the Subject and the Objects that govern, represent, or interact with them.
 
