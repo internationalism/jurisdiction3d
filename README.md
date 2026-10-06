@@ -1,5 +1,5 @@
-# DIA Dupernational Jurisdiction Manifesto
-### Version 0.1 — Draft
+# DIA International Manifesto
+### Version 0.1.1 — Draft
 
 > **L0 defines the subject.  
 > Jurisdiction constrains the action.  
@@ -17,7 +17,7 @@ These systems increasingly interact across borders.
 
 Yet most existing institutions assume a simpler world: one person, one jurisdiction, one authority, one trusted intermediary.
 
-**DIA Dupernational Jurisdiction** proposes another model.
+**DIA International** proposes another model.
 
 It is a protocol architecture for interaction between people, organizations, digital systems, and jurisdictions that:
 
@@ -29,7 +29,7 @@ It is a protocol architecture for interaction between people, organizations, dig
 - prevents unauthorized escalation of delegated privileges;
 - enables cross-jurisdictional procedures without creating a jurisdiction above existing jurisdictions.
 
-DIA Dupernational Jurisdiction is not a replacement for the state.
+DIA International is not a replacement for the state.
 
 It is not a new sovereign.
 
@@ -45,7 +45,7 @@ It is an interoperability layer between jurisdictions, norms, identities, and ac
 
 Every legally relevant action occurs within some applicable legal context.
 
-DIA Dupernational Jurisdiction does not replace:
+DIA International does not replace:
 
 - national law;
 - local law;
@@ -104,7 +104,7 @@ unless such authority has been explicitly established by a legitimate normative 
 
 # II. The Normative Stack
 
-DIA Dupernational Jurisdiction recognizes that different kinds of rules are not interchangeable.
+DIA International recognizes that different kinds of rules are not interchangeable.
 
 A possible normative stack is:
 
@@ -172,7 +172,7 @@ The purpose of jurisdiction is to establish which rules govern legally relevant 
 
 # IV. Jurisdiction at the Boundary
 
-The central architectural distinction of DIA Dupernational Jurisdiction is:
+The central architectural distinction of DIA International is:
 
 ```text
 L0 ≠ Action
@@ -209,7 +209,7 @@ DIA provides evidence that this boundary was crossed according to defined rules.
 
 # V. Normative Pluralism
 
-DIA Dupernational Jurisdiction assumes that human interactions may involve several normative systems simultaneously.
+DIA International assumes that human interactions may involve several normative systems simultaneously.
 
 For example:
 
@@ -432,7 +432,7 @@ Jurisdiction A
    │
    ├── DIA
    │
-   ├── Dupernational Procedure
+   ├── International Procedure
    │
    ├── DIA
    │
@@ -450,7 +450,7 @@ The protocol should identify:
 5. how evidence can be transferred;
 6. how decisions can be recognized or challenged.
 
-DIA Dupernational Jurisdiction therefore aims at **jurisdictional interoperability**, not jurisdictional replacement.
+DIA International therefore aims at **jurisdictional interoperability**, not jurisdictional replacement.
 
 ---
 
@@ -595,7 +595,7 @@ The system should prove what needs to be proven without automatically revealing 
 
 # XVII. The State Is a Participant, Not a Root Process
 
-Within DIA Dupernational Jurisdiction, a state may possess legitimate authority.
+Within DIA International, a state may possess legitimate authority.
 
 That authority must nevertheless be represented explicitly.
 
@@ -700,7 +700,7 @@ It should make those decisions **traceable and verifiable**.
 
 # XX. The Constitutional Invariants
 
-The following principles form the initial invariant set of DIA Dupernational Jurisdiction:
+The following principles form the initial invariant set of DIA International:
 
 ### Invariant 1 — Local Authority
 DIA does not replace applicable local jurisdiction.
@@ -782,7 +782,7 @@ Or, more simply:
 
 # XXII. What This Manifesto Does Not Claim
 
-DIA Dupernational Jurisdiction does not claim:
+DIA International does not claim:
 
 - to abolish states;
 - to abolish courts;
@@ -811,7 +811,7 @@ The central problem is:
 
 > **How can legitimate authority operate without becoming unlimited authority?**
 
-DIA Dupernational Jurisdiction begins from the assumption that these are separable problems.
+DIA International begins from the assumption that these are separable problems.
 
 A person can be subject to law without surrendering their entire personal domain.
 
@@ -836,4 +836,4 @@ Therefore:
 > **Challenge must remain possible.**  
 > **And no delegated authority may silently become root.**
 
-**DIA Dupernational Jurisdiction v0.1**
+**DIA International v0.1.1**
